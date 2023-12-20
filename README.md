@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm William</h1>
-<h3 align="center">A Artificial Inteligence student at UFG</h3>
+<<h1 align="center">Hi there, I'm William</h1>
+<h3 align="center">A Artificial Inteligence student at Federal University of Goiás</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
